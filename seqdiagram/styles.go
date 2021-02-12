@@ -1,7 +1,7 @@
 package seqdiagram
 
 import (
-	"github.com/lmika/goseq/seqdiagram/graphbox"
+	"github.com/brunotm/goseq/seqdiagram/graphbox"
 )
 
 // Diagram styles

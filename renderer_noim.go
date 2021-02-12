@@ -8,7 +8,7 @@ package main
 import (
 	"errors"
 
-	"github.com/lmika/goseq/seqdiagram"
+	"github.com/brunotm/goseq/seqdiagram"
 )
 
 func PngRenderer(diagram *seqdiagram.Diagram, opts *seqdiagram.ImageOptions, target string) error {

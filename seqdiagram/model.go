@@ -6,7 +6,7 @@ package seqdiagram
 import (
 	"io"
 
-	"github.com/lmika/goseq/seqdiagram/parse"
+	"github.com/brunotm/goseq/seqdiagram/parse"
 )
 
 // Top level diagram definition

@@ -8,7 +8,7 @@ package main
 import (
 	"bytes"
 
-	"github.com/lmika/goseq/seqdiagram"
+	"github.com/brunotm/goseq/seqdiagram"
 	"github.com/quirkey/magick"
 )
 

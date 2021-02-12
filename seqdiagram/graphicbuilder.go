@@ -4,7 +4,7 @@ import (
 	"errors"
 	"sort"
 
-	"github.com/lmika/goseq/seqdiagram/graphbox"
+	"github.com/brunotm/goseq/seqdiagram/graphbox"
 )
 
 // Various position offsets

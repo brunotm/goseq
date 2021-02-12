@@ -1,4 +1,4 @@
-module github.com/lmika/goseq
+module github.com/brunotm/goseq
 
 go 1.15
 

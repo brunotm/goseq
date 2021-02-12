@@ -11,7 +11,7 @@ import (
 	"strings"
 
 	"github.com/howeyc/fsnotify"
-	"github.com/lmika/goseq/seqdiagram"
+	"github.com/brunotm/goseq/seqdiagram"
 )
 
 // Name of the output file

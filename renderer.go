@@ -3,7 +3,7 @@ package main
 import (
 	"os"
 
-	"github.com/lmika/goseq/seqdiagram"
+	"github.com/brunotm/goseq/seqdiagram"
 )
 
 // Renders the result of the SVG to a destination (e.g. a file)

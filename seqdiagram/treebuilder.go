@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/lmika/goseq/seqdiagram/parse"
+	"github.com/brunotm/goseq/seqdiagram/parse"
 )
 
 var arrowStemMap = map[parse.ArrowStemType]ArrowStem{
